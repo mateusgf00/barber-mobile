@@ -23,8 +23,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="513798e2-6eb5-4346-a042-818b07f510a6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/screens/Preload/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/screens/Preload/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/screens/SignIn/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/screens/SignIn/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/screens/SignUp/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/screens/SignUp/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/screens/SignUp/styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/screens/SignUp/styles.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,12 +71,12 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="245" y="142" width="1200" height="800" key="AVDManager" timestamp="1626403752456">
+    <state x="245" y="142" width="1200" height="800" key="AVDManager" timestamp="1627611238633">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="245" y="142" width="1200" height="800" key="AVDManager/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1626403752456" />
+    <state x="245" y="142" width="1200" height="800" key="AVDManager/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1627515075082" />
     <state x="245" y="142" width="1200" height="800" key="AVDManager/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1625937164047" />
-    <state x="245" y="142" width="1200" height="800" key="AVDManager/0.0.1920.1040@0.0.1920.1040" timestamp="1626048101584" />
+    <state x="245" y="142" width="1200" height="800" key="AVDManager/0.0.1920.1040@0.0.1920.1040" timestamp="1627611238633" />
     <state x="625" y="297" key="FileChooserDialogImpl" timestamp="1626028329012">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
